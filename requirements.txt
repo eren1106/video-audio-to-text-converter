@@ -1,3 +1,4 @@
 pydub==0.25.1
 SpeechRecognition==3.10.1
 streamlit==1.32.2
+ffmpeg
